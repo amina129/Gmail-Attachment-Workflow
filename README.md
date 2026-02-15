@@ -1,4 +1,5 @@
-README.md - Automated Gmail Attachment Downloader for n8n
+*Automated Gmail Attachment Downloader for n8n*
+
 📋 Overview
 
 This n8n workflow automates the retrieval of email attachments from Gmail, specifically designed for accounting departments that receive invoices and financial documents daily. The system automatically downloads attachments, organizes them by date, marks emails as read, and maintains a download log.
